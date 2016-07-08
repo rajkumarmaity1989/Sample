@@ -18,6 +18,6 @@ public class TestCalculator {
 
 	@Test
 	public void testMultiply() {
-		Assert.assertEquals(200, Calculator.subtract(20, 10));
+		Assert.assertEquals(200, Calculator.multiply(20, 10));
 	}
 }
